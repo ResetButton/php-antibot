@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.001700">
+    <testsuite name="My PHP Package Test Suite" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.001700">
+      <testsuite name="ResetButton\PhpAntiBot\Tests\PassUserAgentsTest" file="/var/www/tests/PassUserAgentsTest.php" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.001700">
+        <testcase name="testSample" class="ResetButton\PhpAntiBot\Tests\PassUserAgentsTest" classname="ResetButton.PhpAntiBot.Tests.PassUserAgentsTest" file="/var/www/tests/PassUserAgentsTest.php" line="9" assertions="1" time="0.001700"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>

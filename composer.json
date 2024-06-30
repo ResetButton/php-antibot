@@ -1,0 +1,29 @@
+{
+    "name": "reset-button/php-antibot",
+    "description": "dddd",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ResetButton\\PhpAntiBot\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ResetButton\\PhpAntiBot\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oleksii Shatrov",
+            "email": "a.shatrov.1982@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
